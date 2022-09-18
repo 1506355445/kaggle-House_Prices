@@ -3,7 +3,9 @@
 train.csv - 训练集
 test.csv - 测试集
 data_description.txt - 每一列的完整描述，最初由Dean De Cock准备，但经过简单编辑以符合这里使用的列名。
-sample_submission.csv - 从销售年份和月份、地段面积和卧室数量的线性回归中提交的基准数据。
+sample_submission.csv 从销量和年份、地段形势和今年月份的线性回归中提交的基准数据。
+hybrid_solution.csv Hybrid SVM 基准方案，top2的提交数据
+lasso_sol22_Median.csv lasso方法训练的回归模型预测结果
 
 数据字段
 以下是数据描述文件中的简要内容。
